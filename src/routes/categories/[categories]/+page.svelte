@@ -3,7 +3,7 @@
 </script>
 
 <div class="mx-auto max-w-sm md:max-w-xl lg:max-w-3xl xl:max-w-6xl">
-    <div class="font-bold font-bebas tracking-wide uppercase text-4xl text-blue-900 my-16 text-center md:text-left">Brand Name</div>
+    <div class="font-bold font-bebas tracking-wide uppercase text-4xl text-blue-900 my-16 text-center md:text-left">Category</div>
     <ul class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 pb-12 font-proxima">
         <li class="col-span-1 bg-white rounded-lg shadow-lg hover:shadow-2xl mt-12">
             <a href="/brands/" class="block h-full w-full">
